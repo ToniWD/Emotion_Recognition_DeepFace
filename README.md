@@ -16,7 +16,7 @@ This project analyzes a video to identify the person who speaks the most and tra
 
 This model was developed as part of a **team project focused on emotion detection from videos**, integrating audio-visual signals and AI-based facial emotion recognition.
 
-🎥 **Presentation video (YouTube):** [Watch here]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=BNJF8pHVoaw))  
+🎥 **Presentation video (in Romanian):** [Watch here](https://www.youtube.com/watch?v=BNJF8pHVoaw)
 
 ## 🛠️ Technologies Used
 
